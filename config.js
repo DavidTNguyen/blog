@@ -2,10 +2,10 @@
 
 module.exports = {
 	url: 'https://lumen.netlify.com',
-	title: 'Blog by David Nguyen',
+	title: 'Blog by Phúc (David) Thiên Nguyễn',
 	subtitle:
-		'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-	copyright: '© All rights reserved.',
+		'I hold my strong opinions loosely',
+	copyright: '© All rights reservedrefu.',
 	disqusShortname: '',
 	postsPerPage: 4,
 	googleAnalyticsId: 'UA-73379983-2',
@@ -24,17 +24,15 @@ module.exports = {
 		},
 	],
 	author: {
-		name: 'David Nguyen',
+		name: 'Phúc (David) Thiên Nguyễn',
 		photo: '/headshot.png',
 		bio:
-			'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+			'Immigrant. Teacher. Coach',
 		contacts: {
-			email: '#',
-			telegram: '#',
-			twitter: '#',
-			github: '#',
-			rss: '#',
-			vkontakte: '#',
+			email: 'davidnguy@gmail.com',
+			twitter: 'vietroadie',
+			github: 'davidtnguyen',
+			linkedin: 'cubi'
 		},
 	},
 }
