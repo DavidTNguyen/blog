@@ -9,7 +9,7 @@ tags:
   - "DevOps"
   - "Agile"
   - "Social Justice"
-description: "Re-imaging DevOps and Agile in the lenses of social justice"
+description: "Stop asking me how long it take to...?"
 ---
 My African refugee friends, who spent a large part of their adult years in the slump of Democratic Republic of Congo 🇨🇩️, offered this observation: "In America, everybody has watches, but nobody has time." They have little use for clocks, still often described distance the old way and said that to walk from his apartment to school would take two washes of laundry 🗑️ and a pot of rice 🍚️. In medieval Europe, people spoke similarly of “three paternosters”, or two boiling eggs. Me as someone grew up in the Mekong Delta of Vietnam 🇻🇳 would say "it would take two trays of egg-roll" 🙂️
 
