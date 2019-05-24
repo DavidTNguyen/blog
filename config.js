@@ -32,7 +32,7 @@ module.exports = {
 			email: 'davidnguy@gmail.com',
 			twitter: 'vietroadie',
 			github: 'davidtnguyen',
-			linkedin: 'cubi'
+			linkedin: 'cubi',
 		},
 	},
 }

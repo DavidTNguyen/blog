@@ -31,6 +31,7 @@ module.exports = {
           email: '#',
           twitter: '#',
           github: '#',
+          linkedin: '#'
         }
       }
     }
